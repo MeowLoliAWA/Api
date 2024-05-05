@@ -1,0 +1,11 @@
+.c-box{
+    margin: 100px 200px;
+    background-color: rgba(221, 205, 205, 0.5); 
+    border-radius: 15px;
+}
+#text{
+    padding: 10px;
+}
+#url{
+    
+}
